@@ -132,7 +132,7 @@ This tool is for **educational purposes only** and does not constitute financial
 
 ## 👨‍💻 Author
 
-Built by [Your Name]
+Built by Nikhil
 
 ---
 
